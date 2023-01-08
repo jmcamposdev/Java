@@ -1,6 +1,6 @@
 package TicTacToeProject;
 
-public class TresEnRaya {
+public class TicTacToe {
     public static void main(String[] args) {
         int[][] tablero = inicializarTablero(3,3);
         String[] nombres = new String[2];
