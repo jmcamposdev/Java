@@ -1,5 +1,4 @@
 package juegoPente;
-import Funciones.GetData;
 /**
  *
  * @author josemaria
